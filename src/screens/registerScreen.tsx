@@ -4,6 +4,7 @@ export const RegisterScreen = () => {
     return (
         <View>
             <Text>Register Screen</Text>
+            <Text>Register Screen</Text>
         </View>
     )
 }
